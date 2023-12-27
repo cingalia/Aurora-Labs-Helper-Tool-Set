@@ -5,6 +5,14 @@
     <RootNamespace>Aurora_Labs_Helper_Tool_Set</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Aurora Labs Helper Tool Set</Title>
+    <Authors>Clinton Ingalia</Authors>
+    <Company>Aurorra Labs Limited</Company>
+    <Description>A Helper tool set for reusable code</Description>
+    <RepositoryUrl>https://github.com/cingalia/Aurora-Labs-Helper-Tool-Set</RepositoryUrl>
+    <PackAsTool>True</PackAsTool>
+    <PackageId>Aurora.Labs.Helper.Tool.Set</PackageId>
   </PropertyGroup>
 
 </Project>
